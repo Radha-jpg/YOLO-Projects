@@ -1,0 +1,16 @@
+venv/
+.idea/
+__pycache__/
+*.pyc
+
+runs/
+outputs/
+
+*.pt
+*.pth
+
+*.mp4
+*.avi
+*.mov
+
+.DS_Store
